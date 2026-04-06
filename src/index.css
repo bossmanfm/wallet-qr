@@ -1,0 +1,4 @@
+/* minimal reset only */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
